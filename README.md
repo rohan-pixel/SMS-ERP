@@ -57,7 +57,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://g
+git clone https://github.com/rohan-pixel/SMS-ERP.git
 ````
 
 ### 2️⃣ Install Dependencies
