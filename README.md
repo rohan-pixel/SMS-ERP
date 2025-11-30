@@ -57,7 +57,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://g
 ````
 
 ### 2️⃣ Install Dependencies
@@ -146,6 +146,5 @@ If this project helps you, **please ⭐ star the repository** — it encourages 
 <p align="center">
   Made with ❤️ for modern educational systems
 </p>
-```
 
 ---
